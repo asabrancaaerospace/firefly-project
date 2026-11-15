@@ -1,0 +1,32 @@
+# Local environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+work/
+.cache/
+models/
+*.safetensors
+*.gguf
+*.onnx
+
+# Credentials: never commit these files
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Local research resources, pending individual redistribution review
+/data/

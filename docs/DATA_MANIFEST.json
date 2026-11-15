@@ -1,0 +1,98 @@
+[
+  {
+    "path": "data/nasa_oficial/raw/PSI-25/Report/BASS-II Summary Report.pdf",
+    "present": true,
+    "bytes": 48972416,
+    "sha256": "5ffa911fd9b6356f204646003fb9342e341810dcdfdf5cb15756e7f01ec5f770"
+  },
+  {
+    "path": "data/nasa_oficial/extracted/tabelas_candidatas_bass_v1.json",
+    "present": true,
+    "bytes": 15193,
+    "sha256": "2aa1fff665cb5e2a85872ec532ae08e48ffbb44081b119e0fffe0ac13b384899"
+  },
+  {
+    "path": "data/nasa_oficial/processed/bass_tabela51_v1/testes.json",
+    "present": true,
+    "bytes": 18825,
+    "sha256": "5e0f64a813940580ec808265148c7a4d61d75902637908f8a9d569b66c55956b"
+  },
+  {
+    "path": "data/nasa_oficial/processed/bass_tabela51_v1/condicoes.json",
+    "present": true,
+    "bytes": 20792,
+    "sha256": "b2eeaf1bd738459d9094b24c3b829c09d75ccf1666a71409ffa03f618fb68c6f"
+  },
+  {
+    "path": "data/nasa_oficial/processed/bass_tabela51_v1/verificacao.json",
+    "present": true,
+    "bytes": 1114,
+    "sha256": "9a2cbc777930d189b0841a479312ac9757cad929a15ebd61da83fd2cc203dc65"
+  },
+  {
+    "path": "data/nasa_oficial/processed/bass_tabela71_v1/registros.json",
+    "present": true,
+    "bytes": 32855,
+    "sha256": "21acdd6de7cb0c6e807c03af2a35b45036a19f4bfa6b7b15b0cb41ceed110e6f"
+  },
+  {
+    "path": "data/nasa_oficial/processed/bass_tabela71_v1/verificacao.json",
+    "present": true,
+    "bytes": 1276,
+    "sha256": "6240cb0e36d8d59bb5535aa66ce66704a6a7aca64b3c268aa57d658f3f54318a"
+  },
+  {
+    "path": "data/nasa_oficial/processed/recortes_saffire_v1/recortes.json",
+    "present": true,
+    "bytes": 428856,
+    "sha256": "c316c867a2b380384a75f40e67b9552068eb029f17861b3500eafd673f9fac65"
+  },
+  {
+    "path": "data/nasa_oficial/processed/recortes_saffire_v1/verificacao.json",
+    "present": true,
+    "bytes": 1618,
+    "sha256": "1d8668e4f6d963f6f29273cc1542ae9994f7cd28c1bd957a73066747e210e6b6"
+  },
+  {
+    "path": "data/nasa_oficial/processed/chunks_saffire_v2/chunks.json",
+    "present": true,
+    "bytes": 642833,
+    "sha256": "5df459f79f0818b55c9ac5a79a928e2d751f30c75694c333a23bfbf9946ffe50"
+  },
+  {
+    "path": "data/nasa_oficial/processed/chunks_saffire_v2/verificacao.json",
+    "present": true,
+    "bytes": 2504,
+    "sha256": "5dc099667a4707353c2c8a6c7c59bd4f45e3133e8b8e7084e85e0575fa1bcd26"
+  },
+  {
+    "path": "data/nasa_oficial/metadata/fichas_evidencias_saffire_v1.json",
+    "present": true,
+    "bytes": 10111,
+    "sha256": "35e3224ced0b362c28bd9b1f67898284aefb4506dbe324aa72c12812e94d4526"
+  },
+  {
+    "path": "data/nasa_oficial/metadata/selecao_documental_saffire_v1.json",
+    "present": true,
+    "bytes": 7419,
+    "sha256": "27bda60c95a223e6bfb60028a213bec7c6809849c1aa784572ae3a56c0d14258"
+  },
+  {
+    "path": "data/nasa_oficial/metadata/plano_recortes_saffire_v1.json",
+    "present": true,
+    "bytes": 150777,
+    "sha256": "22d9627daa7f003bc42dcdcb7accecaca8e0739cea6321b096d9b8c5e0b2c738"
+  },
+  {
+    "path": "data/nasa_oficial/extracted/saffire_documental_v1/paginas.json",
+    "present": true,
+    "bytes": 864051,
+    "sha256": "4eaa80ec08817e03a9b82d4df2617ead825c6975f5d66a51ba7cbad627789e1f"
+  },
+  {
+    "path": "data/nasa_oficial/extracted/saffire_documental_v1/verificacao.json",
+    "present": true,
+    "bytes": 748,
+    "sha256": "3be6e6b12ac20605b2d520af871129314419aa2d268b44e5f6ccbd6d9a7131e8"
+  }
+]

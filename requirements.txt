@@ -1,0 +1,16 @@
+# Captured top-level versions; validate on the target host.
+# Local binary suffixes (+cpu, +cu...) are recorded in ENVIRONMENT.json.
+streamlit==1.67.0
+pandas==3.1.1
+numpy==2.5.4
+plotly==7.1.0
+Pillow==13.0.0
+PyMuPDF==2.1
+sentence-transformers==6.3.0
+torch==2.15.0
+transformers==5.23.0
+tokenizers==0.23.3
+huggingface-hub==2.4.0
+chromadb==1.5.9
+openpyxl==3.1.5
+Pint==0.26.2
