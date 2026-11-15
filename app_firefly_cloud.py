@@ -58,4 +58,3 @@ except Exception as exc:
 
 from src.ui.firefly_v3.dashboard import executar
 executar(BASE)
-git add app_firefly_cloud.py
